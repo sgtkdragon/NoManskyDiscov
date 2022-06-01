@@ -1,0 +1,239 @@
+Alchemical
+Commercial
+Construction
+Energy Supply
+Engineering
+Experimental
+Fuel-Generation
+High Electric
+High-Tech
+High-Voltage
+Industrial
+Manufacturing
+Mass Production
+Material Fusion
+Mathematical
+Mercantile
+Metal Processing
+Minerals
+Mining
+Nano-Construction
+Ore Extraction
+Ore Processing
+Power Generation
+Prospecting
+Research
+Scientific
+Shipping
+Technology
+Trading
+Uncharted
+
+Adequate
+Advanced
+Affluent
+Balanced
+Booming
+Comfortable
+Declining
+Destitute
+Developing
+Failing
+Fledgling
+Flourishing
+High Supply
+Low Supply
+Medium Supply
+Opulent
+Promising
+Prosperous
+Satisfactory
+Struggling
+Sustainable
+Uncharted
+Unpromising
+Unsuccessful
+Wealthy
+
+[REDACTED]
+Abandoned
+Acidic
+Acrid
+Airless
+Arctic
+Arid
+Ashen
+Ash-Shrouded
+Azure
+Barren
+Basalt
+Bladed
+Bleak
+Blighted
+Blood
+Boggy
+Boiling
+Boiling Doom
+Bountiful
+Breached
+Bubbling
+Cabled
+Calcified
+Capped
+Caustic
+Caustic Nightmare
+Cerulean
+Charred
+Chromatic Fog
+Cloudy
+Columned
+Contaminated
+Contoured
+Corrosive
+Corrupted
+Corrupted (Infested)
+Crimson
+Damp
+Dead
+Deathly Green Anomaly
+Decaying Nuclear
+Desert
+Desolate
+Desolate
+Doomed
+Doomed Jade
+Dusty
+Empty
+Endless Morass
+Erased
+Erupting
+Fiery
+Fiery Dreadworld
+Finned
+Fissured
+Flame-Ruptured
+Flourishing
+Foaming
+Foggy
+Forsaken
+Fractured
+Fragmented
+Freezing
+Frostbound
+Frothing
+Frozen
+Frozen Anomaly
+Frozen Hell
+Fungal
+Gamma-Intensive
+Glacial
+Glassy
+Grassy
+Harsh Blue Globe
+Haunted Emeril
+Hazy
+Hexagonal
+Hiemal
+High Energy
+High Radio Source
+High Temperature
+Hot
+Humid
+Hyperborean
+Icebound
+Icy
+Icy Abhorrence
+Imminent Core Detonation
+Incandescent
+Infected
+Infected Dustbowl
+Infected Paradise
+Infested
+Infested (Barren)
+Infested (Frozen)
+Infested (Irradiated)
+Infested (Scorched)
+Infested (Toxic)
+Infested Paradise
+Irradiated
+Isotopic
+Lava
+Life-Incompatible
+Lifeless
+Lost Blue
+Lost Green
+Lost Red
+Low Atmosphere
+Magma
+Malfunctioning
+Marshy
+Mechanical
+Metallic
+Metallurgic
+Miasmatic
+Misty
+Molten
+Murky
+Mutated
+Noxious
+Nuclear
+Obsidian Bead
+of Light
+Ossified
+Overgrown
+Paradise
+Parched
+Petrified
+Pillared
+Planetary Anomaly
+Plated
+Poisonous
+Quagmire
+Radioactive
+Radioactive Abomination
+Rainy
+Rattling
+Reeking
+Rocky
+Rotting
+Scalding
+Scaly
+Scarlet
+Scorched
+Sharded
+Shattered
+Shell-Strewn
+Skeletal
+Spined
+Sporal
+Stellar Corruption Detected
+Sub-zero
+Supercritical
+Swamp
+Tainted
+Tectonic
+Temperate
+Temporary
+Terraforming Catastrophe
+Terrorsphere
+The Nest
+Thirsty
+Torrid
+Toxic
+Toxic Anomaly
+Toxic Horror
+Tropical
+Ultramarine
+Unstable
+Vapour
+Verdant
+Vermillion Globe
+Vile Anomaly
+Violent
+Viridescent
+Volcanic
+Webbed
+Wind-swept
+Wine Dark
+Worm-ridden
+Xeno-Colony
